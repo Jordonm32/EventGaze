@@ -115,3 +115,4 @@ Temporary Items
 # IDE specific files
 .vscode/
 .idea/
+.vs
